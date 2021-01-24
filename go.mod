@@ -1,3 +1,3 @@
 module github.com/codemodify/systemkit-helpers-archive
 
-go 1.13
+go 1.15
